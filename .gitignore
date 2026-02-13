@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python / Conda
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.anaconda/
+.conda/
+.ipynb_checkpoints/
+
+# Shell / OS files
+.bash_history
+.bash_profile
+.zsh_history
+.zshrc
+.condarc
+.Rhistory
+.CFUserTextEncoding
+.keyring/
+
+# Jupyter
+*.ipynb
+
+# Logs
+*.log
+
+# Kubernetes (keep yaml, ignore temp)
+*.swp
